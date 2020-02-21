@@ -1,0 +1,11 @@
+/* Add any css you want to use for you website here */
+h2 {
+  color: gold;
+}
+table,th,td {
+  border: 1px solid black;
+  text-align: center;
+}
+table {
+  width: 100%;
+}
